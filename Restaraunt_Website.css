@@ -561,3 +561,5 @@ align-items: center;
     color: var(--main_color);
     font-weight: bold;
 }
+.footer img{
+    margin:5px;}
